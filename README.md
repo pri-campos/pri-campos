@@ -3,33 +3,52 @@
   <sub>Quality Engineer focused on test automation and testing infrastructure</sub>
 </h1>
 
-
 ## Tech and tools
+
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38" hspace="8"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="38" height="38" hspace="8"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="38" height="38" hspace="8"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="38" height="38" hspace="8"/>
-  </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="38" height="38" hspace="8"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="38" height="38" hspace="8"/>
-  </a>
-  <a href="https://www.dynatrace.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="38" height="38" hspace="8"/>
-  </a>
-  <a href="https://www.datadoghq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="38" height="38" hspace="8"/>
-  </a>
+  <!-- Core / Runtime -->
+  <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+</p>
+
+<p align="center">
+  <!-- Cloud / CI / Containers -->
+  <img src="https://img.shields.io/badge/AWS-2B2B2B?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Jenkins-2B2B2B?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Docker-2B2B2B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+</p>
+
+<p align="center">
+  <!-- Test automation -->
+  <img src="https://img.shields.io/badge/Selenium-2B2B2B?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Cypress-2B2B2B?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Appium-2B2B2B?style=for-the-badge&logo=appium&logoColor=6A1B9A" alt="Appium"/>
+  <img src="https://img.shields.io/badge/Protractor-2B2B2B?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Protractor"/>
+</p>
+
+<p align="center">
+  <!-- API testing / clients -->
+  <img src="https://img.shields.io/badge/REST%20Assured-2B2B2B?style=for-the-badge&logo=java&logoColor=ED8B00" alt="REST Assured"/>
+  <img src="https://img.shields.io/badge/PactumJS-2B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=1E88E5" alt="PactumJS"/>
+  <img src="https://img.shields.io/badge/Postman-2B2B2B?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Insomnia-2B2B2B?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia"/>
+  <img src="https://img.shields.io/badge/Bruno-2B2B2B?style=for-the-badge&logo=bruno&logoColor=FF6A00" alt="Bruno"/>
+  <img src="https://img.shields.io/badge/Pact-2B2B2B?style=for-the-badge&logo=pact&logoColor=7A1FA2" alt="Pact"/>
+</p>
+
+<p align="center">
+  <!-- Performance / Load -->
+  <img src="https://img.shields.io/badge/k6-2B2B2B?style=for-the-badge&logo=k6&logoColor=7D64FF" alt="k6"/>
+  <img src="https://img.shields.io/badge/Artillery-2B2B2B?style=for-the-badge&logo=artillery&logoColor=FFFFFF" alt="Artillery"/>
+  <img src="https://img.shields.io/badge/JMeter-2B2B2B?style=for-the-badge&logo=apachejmeter&logoColor=D22128" alt="JMeter"/>
+</p>
+
+<p align="center">
+  <!-- Quality / Observability -->
+  <img src="https://img.shields.io/badge/SonarQube-2B2B2B?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Kibana-2B2B2B?style=for-the-badge&logo=kibana&logoColor=005571" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/Dynatrace-2B2B2B?style=for-the-badge&logo=dynatrace&logoColor=1496FF" alt="Dynatrace"/>
+  <img src="https://img.shields.io/badge/Datadog-2B2B2B?style=for-the-badge&logo=datadog&logoColor=632CA6" alt="Datadog"/>
 </p>
 
 ## Consistency, focus, and momentum
