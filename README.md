@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome, I’m Priscila Campos<br/>
-  <sub>Quality Engineer focused on test automation and testing infrastructure</sub>
+  <sub>Quality Engineer focused on distributed systems, quality strategy, and reliability</sub>
 </h1>
 
 ## Tech and tools
