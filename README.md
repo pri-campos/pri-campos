@@ -7,6 +7,7 @@
 
 <p align="center">
   <!-- Core / Runtime -->
+  <img src="https://img.shields.io/badge/TypeScript-2B2B2B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-2B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
 </p>
@@ -29,18 +30,18 @@
 
 <p align="center">
   <!-- API testing / clients -->
-  <img src="https://img.shields.io/badge/REST%20Assured-2B2B2B?style=for-the-badge&logo=java&logoColor=ED8B00" alt="REST Assured"/>
   <img src="https://img.shields.io/badge/PactumJS-2B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=1E88E5" alt="PactumJS"/>
   <img src="https://img.shields.io/badge/Postman-2B2B2B?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
   <img src="https://img.shields.io/badge/Insomnia-2B2B2B?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia"/>
   <img src="https://img.shields.io/badge/Bruno-2B2B2B?style=for-the-badge&logo=bruno&logoColor=FF6A00" alt="Bruno"/>
   <img src="https://img.shields.io/badge/Pact-2B2B2B?style=for-the-badge&logo=pact&logoColor=7A1FA2" alt="Pact"/>
+  <img src="https://img.shields.io/badge/REST%20Assured-2B2B2B?style=for-the-badge&logo=java&logoColor=ED8B00" alt="REST Assured"/>
 </p>
 
 <p align="center">
   <!-- Performance / Load -->
-  <img src="https://img.shields.io/badge/k6-2B2B2B?style=for-the-badge&logo=k6&logoColor=7D64FF" alt="k6"/>
   <img src="https://img.shields.io/badge/Artillery-2B2B2B?style=for-the-badge&logo=artillery&logoColor=FFFFFF" alt="Artillery"/>
+  <img src="https://img.shields.io/badge/k6-2B2B2B?style=for-the-badge&logo=k6&logoColor=7D64FF" alt="k6"/>
   <img src="https://img.shields.io/badge/JMeter-2B2B2B?style=for-the-badge&logo=apachejmeter&logoColor=D22128" alt="JMeter"/>
 </p>
 
