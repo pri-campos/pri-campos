@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Cypress-2B2B2B?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress"/>
   <img src="https://img.shields.io/badge/Appium-2B2B2B?style=for-the-badge&logo=appium&logoColor=6A1B9A" alt="Appium"/>
   <img src="https://img.shields.io/badge/Protractor-2B2B2B?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Protractor"/>
+  <img src="https://img.shields.io/badge/Playwright-2B2B2B?style=for-the-badge&logo=playwright&logoColor=45ba63" alt="Playwright"/>
 </p>
 
 <p align="center">
